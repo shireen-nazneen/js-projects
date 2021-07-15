@@ -1,0 +1,85 @@
+
+h1{
+    color: #1900ff;
+}
+h1{
+    font-family: 'Tourney', cursive;
+    font-variant: small-caps;
+    font-size: 3em;
+    font-style: italic;
+  ;
+}
+#seemore{
+    color: brown;
+}
+#seemore{
+    font-family: fantasy;
+    word-spacing: 5px;
+    direction: ltr;
+    text-transform: uppercase;
+}
+.round{
+    border-radius: 50px;
+}
+#insta{
+    background-color: rgb(255, 0, 255);
+    width: 60px;
+    height: 50px;
+    font-family: fantasy;
+    border-radius: 19px;
+    
+}
+#github{
+    background-color: rgb(17, 17, 9);
+    width: 60px;
+    height: 50px;
+    font-family: fantasy;
+    border-radius: 19px;
+}
+#facebook{
+    background-color: rgb(0, 119, 255);
+    width: 60px;
+    height: 50px;
+    font-family: fantasy;
+    border-radius: 19px;
+}
+#myname{
+    border: 3px solid sandybrown;
+    background-color: rgb(80, 138, 123);
+    width: 200px;
+    height: 50px;
+    font-size: larger;
+    font-family: fantasy;
+    border-radius: 19px;
+}
+#contact{
+    border: 3px solid sandybrown;
+    background-color: rgb(80, 138, 123);;
+    width: 200px;
+    height: 50px;
+    font-size: larger;
+    font-family: fantasy;
+    border-radius: 19px;
+
+}
+#qualification{
+    border: 3px solid sandybrown;
+    background-color: rgb(80, 138, 123);
+    width: 200px;
+    height: 50px;
+    font-family: fantasy;
+    font-size: large;
+    border-radius: 19px;
+
+}
+#more{
+    border: 3px solid sandybrown;
+    background-color: rgb(80, 138, 123);
+    width: 250px;
+    height: 50px;
+    font-size: large;
+    font-family: fantasy;
+    border-radius: 19px;
+
+}
+
